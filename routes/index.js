@@ -115,7 +115,7 @@ router.get('/see-one-guest', async function(req,res,next) {
 });
 
 /* POST - HOST - IF SIGN-IN - UPDATE ONE GUEST (DASHBOARD) . */
-router.update('/update-one-guest', async function(req,res,next) { 
+router.post('/update-one-guest', async function(req,res,next) { 
 
 });
 
